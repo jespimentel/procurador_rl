@@ -8,7 +8,7 @@ Nessa brincadeira, tentamos encontrar a relação linear entre as variáveis "an
 
 O modelo busca um padrão dos dados, mas não captura a complexidade da movimentação da carreira, que pode ser intuída no gráfico abaixo:
 
-![Ingresso x Tempo até a promoção](img\plot_tempo_promoção.png)
+![Ingresso x Tempo até a promoção](img/plot_tempo_promoção.png)
 
 Os valores do coeficiente angular e intecepto encontrados são, respectivamente, 1.0987068177853268 e -2159.4368249111044.
 
